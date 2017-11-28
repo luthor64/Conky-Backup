@@ -1,0 +1,2 @@
+conky -c /home/luthor/.config/conky/AUR-Misty-LUA.conkyrc & sleep 1s
+conky -c /home/luthor/.config/conky/vision/Z333-vision.conkyrc & sleep 1s
